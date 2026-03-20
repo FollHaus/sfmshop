@@ -11,6 +11,9 @@ class Product:
             raise ValidationError("Количество не может быть отрицательным")
         self.quantity = quantity
 
+    def apply_discount(self):
+        pass
+
     def set_price(self, price):
         if price < 0:
             raise ValidationError("Цена не может быть отрицательной")
