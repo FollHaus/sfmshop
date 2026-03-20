@@ -19,6 +19,10 @@ class Product:
     def calculate_shipping(self):
         pass
 
+    def get_category(self):
+        pass
+
+
     def check_stock(self):
         pass
 
