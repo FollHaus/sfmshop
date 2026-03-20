@@ -16,6 +16,12 @@ class Product:
             raise ValidationError("Цена не может быть отрицательной")
         self.price = price
 
+    def check_stock(self):
+        pass
+
+    def update_stock(self, quantity):
+        pass
+
     def get_total_price(self) -> float:
         """Возвращает общую стоимость товара"""
         return self.price * self.quantity
