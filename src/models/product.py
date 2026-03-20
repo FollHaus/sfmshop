@@ -16,6 +16,13 @@ class Product:
             raise ValidationError("Цена не может быть отрицательной")
         self.price = price
 
+    def calculate_shipping(self):
+        pass
+
+    def get_category(self):
+        pass
+
+
     def check_stock(self):
         pass
 
