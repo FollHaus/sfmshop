@@ -22,7 +22,6 @@ class Product:
     def get_category(self):
         pass
 
-
     def check_stock(self):
         pass
 
