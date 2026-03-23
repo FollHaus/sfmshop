@@ -1,0 +1,12 @@
+(.venv) PS E:\PythonProjects\SFMShop> git branch -a
+  feature/add-caching
+  feature/add-discount-system
+  feature/add-inventory-management
+  feature/add-logging
+  feature/add-shipping
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature/add-discount-system
+  remotes/origin/feature/add-inventory-management
+  remotes/origin/feature/add-shipping
+  remotes/origin/main

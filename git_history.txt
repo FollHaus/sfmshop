@@ -1,0 +1,23 @@
+(.venv) PS E:\PythonProjects\SFMShop> git log --oneline --graph --all
+* 886290a (feature/add-caching) Добавлена система кэширования
+| * d043f3a (feature/add-logging) Добавлена система логирования
+|/
+*   7a8c6a4 (HEAD -> main, origin/main, origin/HEAD) Добавлена система расчёта стоимости доставки и получения категории в класс  Product
+|\
+| | * bf69db0 (origin/feature/add-shipping, feature/add-shipping) Обновлёна система расчёта доставки Product
+| |/
+| *   97166c7 Объединены изменения из main
+| |\
+| | * 60e4bec Добавлен метод get_category в Product
+| |/
+|/|
+| * 9d53095 Добавлен метод calculate_shipping в Product
+|/
+*   918f3c6 Merge pull request #1 from FollHaus/feature/add-inventory-management
+|\
+| * 22d873a (origin/feature/add-inventory-management, feature/add-inventory-management) Добавлены методы управления складом в класс Product
+|/
+| * 62aa3b8 (origin/feature/add-discount-system, feature/add-discount-system) Добавлена система скидок в класс Product
+|/
+* 40c2afd Добавлены уроки блока 2: ООП
+* 8bc199c Добавлена система скидок в класс Product

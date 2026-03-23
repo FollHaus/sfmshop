@@ -1,0 +1,55 @@
+(.venv) PS E:\PythonProjects\SFMShop> git log --author="Sergeyi"
+commit 7a8c6a498cab8762435529a6abfc17a8955f1e76 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 918f3c6 97166c7
+Author: Sergeyi <74300432+FollHaus@users.noreply.github.com>
+Date:   Fri Mar 20 14:59:12 2026 +0300
+
+    Добавлена система расчёта стоимости доставки и получения категории в класс  Product
+
+    Добавлена система расчёта стоимости доставки и получения категории в класс  Product
+
+commit 97166c7338b37bac74cae600c17a3dd9c32adc96
+Merge: 9d53095 60e4bec
+Author: Sergeyi <Schwarz@S_Schwarz.com>
+Date:   Fri Mar 20 14:43:57 2026 +0300
+
+    Объединены изменения из main
+
+commit 60e4bec7cf97c999cfe5b6f05e0d102e522a70a2
+Author: Sergeyi <Schwarz@S_Schwarz.com>
+Date:   Fri Mar 20 14:36:56 2026 +0300
+
+    Добавлен метод get_category в Product
+
+commit 9d530957bba2fe52f3350b53c107b880de23a9ba
+Author: Sergeyi <Schwarz@S_Schwarz.com>
+Date:   Fri Mar 20 14:35:53 2026 +0300
+
+    Добавлен метод calculate_shipping в Product
+
+commit 918f3c67ea3168d2a77fe6068d9eae91570bce89
+Merge: 40c2afd 22d873a
+Author: Sergeyi <74300432+FollHaus@users.noreply.github.com>
+Date:   Fri Mar 20 14:20:51 2026 +0300
+
+    Merge pull request #1 from FollHaus/feature/add-inventory-management
+
+    Добавлены методы управления складом в класс Product
+
+commit 22d873ae7f08d2c23396955deda3b2e2e4468a3d (origin/feature/add-inventory-management, feature/add-inventory-management)
+Author: Sergeyi <Schwarz@S_Schwarz.com>
+Date:   Fri Mar 20 14:07:11 2026 +0300
+
+    Добавлены методы управления складом в класс Product
+
+commit 40c2afd8ec9f5c496ad940a09eb6bc23b0756f32
+Author: Sergeyi <Schwarz@S_Schwarz.com>
+Date:   Fri Mar 20 12:18:34 2026 +0300
+
+    Добавлены уроки блока 2: ООП
+
+commit 8bc199cb5eb6794501de544c6c72166c401db46a
+Author: Sergeyi <Schwarz@S_Schwarz.com>
+Date:   Fri Mar 20 12:17:53 2026 +0300
+
+    Добавлена система скидок в класс Product

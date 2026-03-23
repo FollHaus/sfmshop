@@ -1,0 +1,10 @@
+(.venv) PS E:\PythonProjects\SFMShop> git show 886290a
+commit 886290a390f440931045078180b32d6f3fdbbd78 (feature/add-caching)
+Author: Sergeyi <Schwarz@S_Schwarz.com>
+Date:   Mon Mar 23 14:03:38 2026 +0300
+
+    Добавлена система кэширования
+
+diff --git a/src/utils/cache.py b/src/utils/cache.py
+new file mode 100644
+index 0000000..e69de29
