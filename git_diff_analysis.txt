@@ -1,0 +1,10 @@
+Ветка: feature/add-caching
+(после выполнения git diff main feature/add-logging)
+Добавлен файл: src/utils/cache.py
+Файл пустой для будущей реализации кэширования
+
+## Ветка: feature/add-logging
+(после выполнения git diff main feature/add-logging)
+Добавйлен файл: src/utils/logging.py
+Настройка централизованного логирования
+Так же пустой файл.
